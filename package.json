@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "redux-devtools-extension": "^2.13.9",
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^21.0.0",
     "stylelint-csstree-validator": "^1.9.0",
